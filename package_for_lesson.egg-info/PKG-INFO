@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: package_for_lesson
+Version: 0.1
+Summary: This is a test package for python lessons
+Home-page: https://github.com/41cha/package_for_lesson
+Author: Volodymyr Dzimina
+Author-email: vova.dzimina@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: summary
+
+This package created for my python lessons with Dmitro Probachai
