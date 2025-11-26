@@ -1,9 +1,15 @@
 import os
 
+def ls(directory, flag='-a'):
+    if flag == '-a':
+        for item in os.listdir(directory):
+            print(item)
 
-def ls(directory, flag='-l'):
-    for item in os.listdir(directory):
-        print(item)
+    if flag == '-l':
+        pass
+
+    else:
+        raise 
 
 def pwd():
     print(os.getcwd())
@@ -23,7 +29,7 @@ def cat(filename):
         print("Файл не знайдено.")
 
     
-def cp(sourse, destination):
+def cp(sourse, destination):    
     pass
 
 def mv(sourse, destination):
