@@ -11,5 +11,5 @@ setup(
     author_email="vova.dzimina@gmail.com",
     description="This is a test package for python lessons",
     long_description="This package created for my python lessons with Dmitro Probachai",
-    url="https://github.com/41cha/package_for_lesson",
+    url="https://github.com/41cha/test-package-for-python-lesson",
 )
