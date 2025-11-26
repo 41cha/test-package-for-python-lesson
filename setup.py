@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="linux_commands",
-    version="0.1.1",
+    name="directory_control",
+    version="0.1.0.dev1",
     packages=find_packages(),
     install_requires=[
         # список залежностей вашого пакету, якщо вони є
