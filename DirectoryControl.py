@@ -48,3 +48,5 @@ def cp(sourse, destination):
 def mv(sourse, destination):
     os.rename(sourse, destination)
 
+def fortest(word):
+    print('all working good!')
