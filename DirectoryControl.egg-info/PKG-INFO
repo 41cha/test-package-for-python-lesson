@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
-Name: directory_control
-Version: 0.1.0.dev1
+Name: DirectoryControl
+Version: 0.1.0.1
 Summary: This is a test package for python lessons
 Home-page: https://github.com/41cha/test-package-for-python-lesson
 Author: Volodymyr Dzimina
@@ -11,4 +11,4 @@ Dynamic: description
 Dynamic: home-page
 Dynamic: summary
 
-This package created for my python lessons with Dmitro Probachai, in this package i created simple linux comands
+This package created for my python lessons with Dmitro Probachai, in this package i added simple linux comands

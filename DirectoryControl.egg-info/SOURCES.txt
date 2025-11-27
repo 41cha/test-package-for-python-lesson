@@ -1,0 +1,5 @@
+setup.py
+DirectoryControl.egg-info/PKG-INFO
+DirectoryControl.egg-info/SOURCES.txt
+DirectoryControl.egg-info/dependency_links.txt
+DirectoryControl.egg-info/top_level.txt
